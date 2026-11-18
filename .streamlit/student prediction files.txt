@@ -1,0 +1,10 @@
+Student_Performance_Prediction/
+│
+├── dataset/
+│   └── students.csv
+│
+├── data_generation.py
+├── data_analysis.py
+├── model_training.py
+├── app.py
+└── requirements.txt

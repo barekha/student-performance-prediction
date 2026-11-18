@@ -1,0 +1,14 @@
+{
+    "rekha1234@gmail.com": {
+        "name": "REKHA",
+        "student_id": "1234",
+        "salt": "52e1c18382be93140b7e3a3eced41dcf",
+        "password_hash": "6e364653761a65344de59c55abca4b4f2cfe5597bda402555e29878c9e4d1489"
+    },
+    "r@gmail.com": {
+        "name": "R",
+        "student_id": "10",
+        "salt": "534579e17e299e6a28a6cf7c7fc93091",
+        "password_hash": "ede056970bb69e6b467da728ddb7334284009f370055b408fa0a6f3d9feeea9f"
+    }
+}
